@@ -62,4 +62,6 @@ int main() {
     std::cout << "------------------------------" << std::endl;
     std::cout << std::setw(20) << std::left << "Average score";
     std::cout << std::setw(10) << std::right << std::setprecision(3) << avg;
+
+    return 0;
 }
